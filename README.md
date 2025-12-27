@@ -39,8 +39,9 @@ CIRCUIT DIAGRAMS
 Half wave rectifier with filter:
 <img width="1892" height="1160" alt="beee 4(2)" src="https://github.com/user-attachments/assets/fd64a482-f578-4644-97f0-d8dbf50468d7" />
 
-[halfwave circuit](https://github.com/user-attachments/assets/01b9ea96-9897-46a3-8a77-52e5988b2121)
- />
+
+ 
+![halfwave circuit](https://github.com/user-attachments/assets/c7412de7-ca48-436c-844b-a7e709ced4a2)
 
 Bridge rectifier with filter:
 <img width="1902" height="1120" alt="beee 4" src="https://github.com/user-attachments/assets/37b24f1c-0cc8-49e3-85aa-1665385c3780" />
